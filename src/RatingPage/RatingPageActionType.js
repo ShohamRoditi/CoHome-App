@@ -1,0 +1,3 @@
+export const MY_TENANTS = 'MY_TENANTS'
+export const HIGHEST_SCORE = 'HIGHEST_SCORE'
+export const WANTED_PRIZE = 'WANTED_PRIZE'
